@@ -1,0 +1,184 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3  ~ WiFiAnalyzer
+4  ~ Copyright (C) 2015 - 2022 VREM Software Development <VREMSoftwareDevelopment@gmail.com>
+5  ~
+6  ~ This program is free software: you can redistribute it and/or modify
+7  ~ it under the terms of the GNU General Public License as published by
+8  ~ the Free Software Foundation, either version 3 of the License, or
+9  ~ (at your option) any later version.
+10  ~
+11  ~ This program is distributed in the hope that it will be useful,
+12  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+13  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+14  ~ GNU General Public License for more details.
+15  ~
+16  ~ You should have received a copy of the GNU General Public License
+17  ~ along with this program.  If not, see <http://www.gnu.org/licenses/>
+18-->
+19<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+20    package="com.vrem.wifianalyzer.BETA"
+21    android:installLocation="auto"
+22    android:versionCode="58"
+23    android:versionName="3.0.6.0-BETA" >
+24
+25    <uses-sdk
+26        android:minSdkVersion="19"
+26-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml
+27        android:targetSdkVersion="30" />
+27-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml
+28
+29    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+29-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:24:5-75
+29-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:24:22-73
+30    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+30-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:25:5-75
+30-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:25:22-73
+31    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+31-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:26:5-76
+31-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:26:22-74
+32
+33    <uses-permission-sdk-23 android:name="android.permission.ACCESS_FINE_LOCATION" />
+33-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:27:5-85
+33-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:27:29-83
+34
+35    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+35-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:28:5-84
+35-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:28:22-82
+36    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+36-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:29:5-80
+36-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:29:22-78
+37    <uses-permission android:name="android.permission.WAKE_LOCK" />
+37-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:30:5-67
+37-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:30:22-65
+38    <uses-permission android:name="android.permission.INTERNET" />
+38-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:31:5-66
+38-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:31:22-64
+39    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+39-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:32:5-79
+39-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:32:22-76
+40    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+40-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:33:5-79
+40-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:33:22-77
+41    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+41-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:34:5-80
+41-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:34:22-78
+42    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+42-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:35:5-81
+42-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:35:22-79
+43
+44    <queries>
+44-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:81:5-84:15
+45        <package android:name="com.aaronjwood.portauthority.free" />
+45-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:82:9-69
+45-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:82:18-66
+46        <package android:name="com.aaronjwood.portauthority.donate" />
+46-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:83:9-71
+46-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:83:18-68
+47    </queries>
+48
+49    <application
+49-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:39:5-79:19
+50        android:allowBackup="true"
+50-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:40:9-35
+51        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+51-->[androidx.core:core:1.6.0] C:\Users\alexm\.gradle\caches\transforms-3\a2341646141a864618890a184241c167\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+52        android:debuggable="true"
+53        android:fullBackupContent="true"
+53-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:41:9-41
+54        android:hardwareAccelerated="true"
+54-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:42:9-43
+55        android:icon="@mipmap/ic_launcher"
+55-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:43:9-43
+56        android:label="@string/app_name"
+56-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:45:9-41
+57        android:resizeableActivity="true"
+57-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:46:9-42
+58        android:roundIcon="@mipmap/ic_launcher_round"
+58-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:44:9-54
+59        android:supportsRtl="true"
+59-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:47:9-35
+60        android:testOnly="true"
+61        android:theme="@style/ThemeDark"
+61-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:48:9-41
+62        android:usesCleartextTraffic="true" >
+62-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:49:9-44
+63        <service
+63-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:51:10-52:42
+64            android:name="com.vrem.wifianalyzer.wifi.scanner.ACTScanner"
+64-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:51:19-58
+65            android:stopWithTask="true" />
+65-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:52:13-40
+66        <service
+66-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:54:9-55:42
+67            android:name="com.vrem.wifianalyzer.wifi.scanner.ACTPosScanner"
+67-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:54:18-60
+68            android:stopWithTask="true" />
+68-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:55:13-40
+69
+70        <meta-data
+70-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:57:9-59:34
+71            android:name="android.max_aspect"
+71-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:58:13-46
+72            android:value="2.1" />
+72-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:59:13-32
+73
+74        <activity
+74-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:61:9-69:20
+75            android:name="com.vrem.wifianalyzer.SplashActivity"
+75-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:62:13-43
+76            android:label="@string/app_name" >
+76-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:63:13-45
+77            <intent-filter>
+77-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:65:13-68:29
+78                <action android:name="android.intent.action.MAIN" />
+78-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:66:17-68
+78-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:66:25-66
+79
+80                <category android:name="android.intent.category.LAUNCHER" />
+80-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:67:17-76
+80-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:67:27-74
+81            </intent-filter>
+82        </activity>
+83        <activity
+83-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:70:9-78:20
+84            android:name="com.vrem.wifianalyzer.MainActivity"
+84-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:71:13-41
+85            android:configChanges="keyboardHidden|orientation|screenSize"
+85-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:72:13-74
+86            android:label="@string/app_name"
+86-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:73:13-45
+87            android:launchMode="singleTop" >
+87-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:74:13-43
+88            <intent-filter>
+88-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:75:13-77:29
+89                <category android:name="android.intent.category.DEFAULT" />
+89-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:76:17-76
+89-->C:\Users\alexm\Desktop\Asynchronous_Contact_Tracing\ACTMobileAPP\app\src\main\AndroidManifest.xml:76:27-73
+90            </intent-filter>
+91        </activity>
+92        <activity
+92-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\alexm\.gradle\caches\transforms-3\a711d8f319d784818c0bd7ce7cb959f4\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+93            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+93-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\alexm\.gradle\caches\transforms-3\a711d8f319d784818c0bd7ce7cb959f4\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+94            android:exported="false"
+94-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\alexm\.gradle\caches\transforms-3\a711d8f319d784818c0bd7ce7cb959f4\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+95            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+95-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\alexm\.gradle\caches\transforms-3\a711d8f319d784818c0bd7ce7cb959f4\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+96
+97        <meta-data
+97-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\alexm\.gradle\caches\transforms-3\0e5a8dcf6d6e172b374d8e276adc35ac\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+98            android:name="com.google.android.gms.version"
+98-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\alexm\.gradle\caches\transforms-3\0e5a8dcf6d6e172b374d8e276adc35ac\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+99            android:value="@integer/google_play_services_version" />
+99-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\alexm\.gradle\caches\transforms-3\0e5a8dcf6d6e172b374d8e276adc35ac\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+100
+101        <service
+101-->[androidx.room:room-runtime:2.2.2] C:\Users\alexm\.gradle\caches\transforms-3\0fc3f5850af7c22e53b5d261ce2e2432\transformed\room-runtime-2.2.2\AndroidManifest.xml:25:9-27:40
+102            android:name="androidx.room.MultiInstanceInvalidationService"
+102-->[androidx.room:room-runtime:2.2.2] C:\Users\alexm\.gradle\caches\transforms-3\0fc3f5850af7c22e53b5d261ce2e2432\transformed\room-runtime-2.2.2\AndroidManifest.xml:26:13-74
+103            android:exported="false" />
+103-->[androidx.room:room-runtime:2.2.2] C:\Users\alexm\.gradle\caches\transforms-3\0fc3f5850af7c22e53b5d261ce2e2432\transformed\room-runtime-2.2.2\AndroidManifest.xml:27:13-37
+104    </application>
+105
+106</manifest>

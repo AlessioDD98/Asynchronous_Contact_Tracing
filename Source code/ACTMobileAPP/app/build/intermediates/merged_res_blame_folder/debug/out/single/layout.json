@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\main_activity.xml",
+        "source": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\src\\main\\res\\layout\\main_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\access_point_view_hide.xml",
+        "source": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\src\\main\\res\\layout\\access_point_view_hide.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\vendor_content.xml",
+        "source": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\src\\main\\res\\layout\\vendor_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\info_faq.xml",
+        "source": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\src\\main\\res\\layout\\info_faq.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\access_points_content.xml",
+        "source": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\src\\main\\res\\layout\\access_points_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\access_point_view_compact.xml",
+        "source": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\src\\main\\res\\layout\\access_point_view_compact.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\separator_line.xml",
+        "source": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\src\\main\\res\\layout\\separator_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\main_connection.xml",
+        "source": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\src\\main\\res\\layout\\main_connection.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\main_content.xml",
+        "source": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\src\\main\\res\\layout\\main_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\about_content.xml",
+        "source": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\src\\main\\res\\layout\\about_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\filter_security.xml",
+        "source": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\src\\main\\res\\layout\\filter_security.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\graph_content.xml",
+        "source": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\src\\main\\res\\layout\\graph_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\filter_strength.xml",
+        "source": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\src\\main\\res\\layout\\filter_strength.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\channel_available_content.xml",
+        "source": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\src\\main\\res\\layout\\channel_available_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\channel_available_details.xml",
+        "source": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\src\\main\\res\\layout\\channel_available_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\info_location.xml",
+        "source": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\src\\main\\res\\layout\\info_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\filter_popup.xml",
+        "source": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\src\\main\\res\\layout\\filter_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\main_navigation.xml",
+        "source": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\src\\main\\res\\layout\\main_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\main_nodata.xml",
+        "source": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\src\\main\\res\\layout\\main_nodata.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\channel_rating_content.xml",
+        "source": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\src\\main\\res\\layout\\channel_rating_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\main_toolbar.xml",
+        "source": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\src\\main\\res\\layout\\main_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\channel_rating_header.xml",
+        "source": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\src\\main\\res\\layout\\channel_rating_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\channel_rating_best.xml",
+        "source": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\src\\main\\res\\layout\\channel_rating_best.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\vendor_details.xml",
+        "source": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\src\\main\\res\\layout\\vendor_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\info_permission.xml",
+        "source": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\src\\main\\res\\layout\\info_permission.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\channel_rating_details.xml",
+        "source": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\src\\main\\res\\layout\\channel_rating_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\filter_wifi_band.xml",
+        "source": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\src\\main\\res\\layout\\filter_wifi_band.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\filter_ssid.xml",
+        "source": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\src\\main\\res\\layout\\filter_ssid.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\access_point_view_complete.xml",
+        "source": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\src\\main\\res\\layout\\access_point_view_complete.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\info_throttling.xml",
+        "source": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\src\\main\\res\\layout\\info_throttling.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\splash_activity.xml",
+        "source": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\src\\main\\res\\layout\\splash_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\access_point_view_popup.xml",
+        "source": "C:\\Users\\alexm\\Desktop\\Asynchronous_Contact_Tracing\\ACTMobileAPP\\app\\src\\main\\res\\layout\\access_point_view_popup.xml"
+    }
+]
