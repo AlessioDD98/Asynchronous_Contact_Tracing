@@ -1,0 +1,77 @@
+com/vrem/wifianalyzer/databinding/MainContentBinding.java
+ com.vrem.wifianalyzer.databinding.MainContentBinding
+com/vrem/wifianalyzer/databinding/InfoPermissionBinding.java
+ com.vrem.wifianalyzer.databinding.InfoPermissionBinding
+com/vrem/wifianalyzer/databinding/AccessPointsContentBinding.java
+ com.vrem.wifianalyzer.databinding.AccessPointsContentBinding
+com/vrem/wifianalyzer/databinding/FilterWifiBandBinding.java
+ com.vrem.wifianalyzer.databinding.FilterWifiBandBinding
+com/vrem/wifianalyzer/wifi/database/NetworkDao_Impl.java
+ com.vrem.wifianalyzer.wifi.database.NetworkDao_Impl
+ com.vrem.wifianalyzer.wifi.database.NetworkDao_Impl$1
+ com.vrem.wifianalyzer.wifi.database.NetworkDao_Impl$2
+com/vrem/wifianalyzer/databinding/InfoLocationBinding.java
+ com.vrem.wifianalyzer.databinding.InfoLocationBinding
+com/jjoe64/graphview/series/TitleLineGraphSeries.java
+ com.jjoe64.graphview.series.TitleLineGraphSeries
+ com.jjoe64.graphview.series.TitleLineGraphSeries$1
+ com.jjoe64.graphview.series.TitleLineGraphSeries$Styles
+com/vrem/wifianalyzer/databinding/SplashActivityBinding.java
+ com.vrem.wifianalyzer.databinding.SplashActivityBinding
+com/vrem/wifianalyzer/databinding/MainActivityBinding.java
+ com.vrem.wifianalyzer.databinding.MainActivityBinding
+com/vrem/wifianalyzer/wifi/database/NetworkDatabase_Impl.java
+ com.vrem.wifianalyzer.wifi.database.NetworkDatabase_Impl
+ com.vrem.wifianalyzer.wifi.database.NetworkDatabase_Impl$1
+com/vrem/wifianalyzer/databinding/VendorContentBinding.java
+ com.vrem.wifianalyzer.databinding.VendorContentBinding
+com/vrem/wifianalyzer/databinding/ChannelAvailableDetailsBinding.java
+ com.vrem.wifianalyzer.databinding.ChannelAvailableDetailsBinding
+com/vrem/wifianalyzer/databinding/MainToolbarBinding.java
+ com.vrem.wifianalyzer.databinding.MainToolbarBinding
+com/vrem/wifianalyzer/databinding/AccessPointViewCompleteBinding.java
+ com.vrem.wifianalyzer.databinding.AccessPointViewCompleteBinding
+com/vrem/wifianalyzer/databinding/ChannelRatingHeaderBinding.java
+ com.vrem.wifianalyzer.databinding.ChannelRatingHeaderBinding
+com/vrem/wifianalyzer/databinding/ChannelAvailableContentBinding.java
+ com.vrem.wifianalyzer.databinding.ChannelAvailableContentBinding
+com/vrem/wifianalyzer/databinding/GraphContentBinding.java
+ com.vrem.wifianalyzer.databinding.GraphContentBinding
+com/vrem/wifianalyzer/databinding/SeparatorLineBinding.java
+ com.vrem.wifianalyzer.databinding.SeparatorLineBinding
+com/vrem/wifianalyzer/BuildConfig.java
+ com.vrem.wifianalyzer.BuildConfig
+com/vrem/wifianalyzer/databinding/MainNodataBinding.java
+ com.vrem.wifianalyzer.databinding.MainNodataBinding
+com/vrem/wifianalyzer/databinding/ChannelRatingContentBinding.java
+ com.vrem.wifianalyzer.databinding.ChannelRatingContentBinding
+com/vrem/wifianalyzer/databinding/AccessPointViewCompactBinding.java
+ com.vrem.wifianalyzer.databinding.AccessPointViewCompactBinding
+com/vrem/wifianalyzer/databinding/MainNavigationBinding.java
+ com.vrem.wifianalyzer.databinding.MainNavigationBinding
+com/vrem/wifianalyzer/databinding/FilterStrengthBinding.java
+ com.vrem.wifianalyzer.databinding.FilterStrengthBinding
+com/vrem/wifianalyzer/databinding/FilterPopupBinding.java
+ com.vrem.wifianalyzer.databinding.FilterPopupBinding
+com/vrem/wifianalyzer/databinding/ChannelRatingDetailsBinding.java
+ com.vrem.wifianalyzer.databinding.ChannelRatingDetailsBinding
+com/vrem/wifianalyzer/databinding/AccessPointViewPopupBinding.java
+ com.vrem.wifianalyzer.databinding.AccessPointViewPopupBinding
+com/vrem/wifianalyzer/databinding/InfoThrottlingBinding.java
+ com.vrem.wifianalyzer.databinding.InfoThrottlingBinding
+com/vrem/wifianalyzer/databinding/ChannelRatingBestBinding.java
+ com.vrem.wifianalyzer.databinding.ChannelRatingBestBinding
+com/vrem/wifianalyzer/databinding/InfoFaqBinding.java
+ com.vrem.wifianalyzer.databinding.InfoFaqBinding
+com/vrem/wifianalyzer/databinding/VendorDetailsBinding.java
+ com.vrem.wifianalyzer.databinding.VendorDetailsBinding
+com/vrem/wifianalyzer/databinding/MainConnectionBinding.java
+ com.vrem.wifianalyzer.databinding.MainConnectionBinding
+com/vrem/wifianalyzer/databinding/AboutContentBinding.java
+ com.vrem.wifianalyzer.databinding.AboutContentBinding
+com/vrem/wifianalyzer/databinding/AccessPointViewHideBinding.java
+ com.vrem.wifianalyzer.databinding.AccessPointViewHideBinding
+com/vrem/wifianalyzer/databinding/FilterSecurityBinding.java
+ com.vrem.wifianalyzer.databinding.FilterSecurityBinding
+com/vrem/wifianalyzer/databinding/FilterSsidBinding.java
+ com.vrem.wifianalyzer.databinding.FilterSsidBinding
